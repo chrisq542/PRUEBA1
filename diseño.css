@@ -1,0 +1,296 @@
+*{
+    background-color: black;
+}
+
+.logo{
+    background: black;
+    width: 106px;
+    height: 106px;
+    margin-right: 35px;
+}
+
+.iconos-redes-header{ 
+    width: 20px;
+    margin: 10px 5px;
+}
+
+.texto-uno{
+    color: orange;
+    font-size: 10px;
+}
+
+
+body{
+    background-color: black;
+}
+
+.bg-light {
+    background-color :  var ( --color-light ) ! important ;
+
+}:root {
+    --color-dark: #15181f;
+    --color-dark-x: #2d343f;
+    --color-dark-xx: #1f232b;
+    --color-light: #ffffff;
+    --color-grey: #f5f6f8;
+}
+
+body {
+    font-size: 1.1rem;
+    font-weight: 300;
+    background-color: var(--color-grey);
+    color: var(--color-light);
+    letter-spacing: .05rem;
+}
+
+.p-6 {
+    padding: 4rem 7rem;
+}
+
+.contact-box {
+    padding: 3rem;
+}
+
+.btn {
+    font-weight: 400;
+    padding: 1rem 2rem;
+    border-radius: 5rem;
+    min-width: 10rem;
+}
+
+.register-bg {
+    background-image: url('Recursos/imagen\ registrarse\ 2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+}
+
+.logoG { 
+    position: absolute;
+    left: 1000px;
+    top: 200px;
+}
+
+.parrafoc {
+    width: 700px;
+    height: 200px;
+
+}
+.parrafoc p{
+    font-size: auto;
+}
+.img_nude{
+    position: absolute;
+    left: 1000px;
+    top: 200px;
+}
+.img_venus{
+    position: absolute;
+    left: 1000px;
+    top: 200px;
+
+}
+.parrafoc p
+{
+    font-size: auto;
+
+}
+.Calamardoh{
+    position: absolute;
+    bottom: -720px;
+    left: -650px;
+}    
+
+.fotoT{
+    position: absolute;
+    left: 1250px;
+    top: 200px;
+
+}  
+
+footer{
+    margin-top: 20px;
+    background-color: orange;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer .logotipo-footer{
+    background-color: orange;
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+.letra-footer{
+    background-color: orange;
+}
+
+.iconos-redes{
+    background-color: orange;
+    width: 20px;
+    margin: 10px 5px;
+}
+
+.card-img-top{
+    width: 380px;
+    height: 250px;
+    margin: 20%;
+}
+
+.card-group{
+    background-color: black;
+
+}
+
+.carousel-inner{
+    width: 70%;
+    margin-left: 15%;
+}
+
+.card{
+    background-color: black;
+
+}
+
+.rounded mx-auto d-block{
+    width: 1000px;
+    height: 250px;
+    margin: 30px;
+}
+
+.imagen-noche{
+    margin: 50px;
+}
+
+.card-body{
+    text-align: left;
+}
+
+.texto{
+    justify-content: center;
+}
+
+.nosotros-texto{
+    text-align: center;
+    
+}
+
+.parrafo-nosotros{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.img-nosotros{
+    text-align: center;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.imagenlucas{
+    margin: 5%;
+    width: 30%;
+}
+
+.container-contacto{
+    text-align: center;
+}
+
+h1 .titulo-contacto{
+    margin-top: 5%;
+}
+
+.form-contacto{
+    margin: 1%;
+    margin-left: 33%;
+    text-align: start;
+}
+
+.container-contacto{
+    padding-top: 4%;
+}
+
+.form-group-unferior{
+    margin-left: 33%;
+    margin-right: 33%;
+    text-align: start;
+    margin-bottom: 1%;
+}
+
+.btn{
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+
+.texto-tarde{
+    text-align: start;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-top: 10%;
+}
+
+.imagen-tarde{
+    margin-bottom: 5%;
+    margin-left: 20%;
+}
+
+
+
+.nosotros-texto{
+    padding-top: 5%;
+    padding-bottom: 20%;
+}
+
+.accordion{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 2%;
+    padding-bottom: 20%;
+}
+
+.imgbeckmann{
+    width: 15%;
+    height: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+}
+
+.ingresar-gb {
+    background-image: url('Recursos/imageningresar.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+}
+
+.ajuste-conteiner{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.form-group{
+    margin-top: 2%;
+}
+
+.form-group-unferior-segundo{
+    padding-top: 2%;
+}
+
+.register-bg-segundo {
+    background-image: url('Recursos/imagen-formulario.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+}
+
+
+
+#map {
+	height: 500px;
+	width: 100%;
+    
+}
+
+.script-xd {
+    background: white;
+    
+}
